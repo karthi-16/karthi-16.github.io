@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs   # GitHub Pages serves from /docs
+  output-dir: .   # GitHub Pages serves from /docs
 
 website:
   title: ""
