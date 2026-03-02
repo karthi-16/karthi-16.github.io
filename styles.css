@@ -391,34 +391,35 @@ body {
 
 /* Mobile responsive fix */
 /* Improve mobile spacing without breaking desktop layout */
-@media (max-width: 576px) {
-  .page-columns {
-    padding-left: 12px !important;
-    padding-right: 12px !important;
-  }
-}
-
-/* Target front page only */
-/* Fix trestles template on mobile */
 @media (max-width: 768px) {
   .quarto-about-trestles {
-    flex-direction: column !important;
-    padding: 0 12px !important;
+    display: block !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    left: 0 !important;
+    position: relative !important;
+    width: 100% !important;
+    overflow-x: hidden !important;
   }
 
   .quarto-about-trestles .about-entity {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    float: none !important;
     width: 100% !important;
-    padding-right: 0 !important;
     text-align: center !important;
   }
 
   .quarto-about-trestles .about-contents {
-    width: 100% !important;
+    margin-left: 0 !important;
     padding-left: 0 !important;
+    float: none !important;
+    width: 100% !important;
   }
 
-  .quarto-about-trestles img {
-    width: 180px !important;
-    height: 180px !important;
+  /* Reset any negative margins */
+  .quarto-about-trestles * {
+    margin-left: 0 !important;
+    max-width: 100% !important;
   }
 }
