@@ -1,0 +1,73 @@
+---
+title: "Karthikeyan Govindan"
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 320px
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/karthi-16
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/Karthikeyan Govindan
+    - icon: envelope
+      text: Email
+      href: mailto:karthikeyan.g@cmcvellore.ac.in
+    - text: CV
+      href: cv.pdf
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?view_op=list_works&hl=en&user=is4cNvYAAAAJ&sortby=pubdate
+format:
+  html:
+    css: styles.css
+---
+
+## 
+
+## Bio
+
+I am a bioinformatician at the Wellcome Trust Research Laboratory, CMC, Vellore. My research focuses on two primary areas: **Gut Microbiome** and **Genomic surveillance of pathogens** in wastewater, with the broader goal of understanding microbial communities in both clinical and environmental contexts.
+
+I specialise in building custom bioinformatic pipelines and workflows tailored to specific research questions. My analytical work includes the analysis of whole-genome sequencing, shotgun metagenomic, and amplicon sequencing data, including read preprocessing, assembly, taxonomic and functional profiling, comparative analysis, and interpretation of microbial community structure and dynamics across bacterial and viral systems, enabling end-to-end processing of sequencing outputs from raw reads to biological interpretation. I am proficient in Bash and R, and have a strong interest in reproducible research — developing interactive dashboards and automated reports using R Markdown, Quarto, and GitHub to communicate findings clearly and efficiently.
+
+In addition to bioinformatic analysis, I have hands-on experience in genome sequencing using both Illumina (MiSeq) and Oxford Nanopore Technologies (MinION) platforms, supporting the generation of high-quality sequencing data for downstream analysis.
+
+
+## Research Specialization
+
+:::{.columns}
+:::{.column width="20%"}
+:::{.interest-box}
+Gut Microbiome & Host-Microbe Interactions
+:::
+:::
+:::{.column width="20%"}
+:::{.interest-box}
+Wastewater-Based Pathogen Surveillance
+:::
+:::
+:::{.column width="20%"}
+:::{.interest-box}
+Bioinformatics
+:::
+:::
+:::{.column width="20%"}
+:::{.interest-box}
+Pathogen Sequencing
+:::
+:::
+:::{.column width="20%"}
+:::{.interest-box}
+Functional Genomics
+:::
+:::
+:::
+
+## Research Interest
+
+Microbial community modelling and simulation
+
+Microbial ecology, functional dynamics, and climate change

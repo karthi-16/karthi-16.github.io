@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages serves from /docs
+
+website:
+  title: ""
+  repo-url: https://github.com/karthi-16/
+  repo-actions: [edit, source, issue]
+  navbar:
+    background: dark
+    foreground: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Posters"
+        href: posters.qmd
+      - text: "Awards"
+        href: awards.qmd
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+        aria-label: GitHub
+
+format:
+  html:
+    theme: cosmo
+    code-tools: false
+    edit-link: false
+    repo-actions: false
+    css: styles.css
+    toc: false
+    page-layout: article
+    grid: 
+      body-width: 1600px
+toc: false
+number-sections: false

@@ -1,0 +1,93 @@
+---
+title: "Publications"
+page-layout: full
+format:
+  html:
+    css: styles.css
+---
+
+:::{.pub-page}
+
+## 2026
+
+**Exploring Gut Mucosal Microbiota to Distinguish Crohn's Disease from Intestinal Tuberculosis**
+*Kuriakose AC, Abraham D, Benny B, Govindan K, Kurien RT, Chowdhury SD, Simon EG, Pulimood A, Joseph AJ, Dutta AK*
+Inflammatory Bowel Diseases, 32(1): 182–185, 2026
+
+---
+
+## 2025
+
+**AmpliconTyper — a tool for analysing ONT multiplex PCR data from environmental and other complex samples**
+*Spadar A, Mahindroo J, Troman C, Owusu M, Adu-Sarkodie Y, Owusu-Dabo E, Abraham D, Benny B, Govindan K, Mohan VR, et al.*
+Microbial Genomics, 11(9): 001421, 2025
+
+---
+
+**EnviroAmpDesigner — a tool for designing high specificity multiplex PCR primer panels for environmental surveillance**
+*Spadar A, Mahindroo J, Troman C, Owusu M, Adu-Sarkodie Y, Owusu-Dabo E, Abraham D, Benny B, Govindan K, Mohan VR, et al.*
+bioRxiv, 2025
+
+
+---
+
+**Dynamics of tissue and fecal microbiota in active Crohn's disease and their ability to predict disease state**
+*Dutta AK, Abraham D, Praharaj I, Benny B, Govindan K, Zondervenni Z, Joseph AJ*
+World Journal of Gastrointestinal Pathophysiology, 16(3): 108058, 2025
+
+
+---
+
+## 2024
+
+**Unveiling the Global Surge of Mpox (Monkeypox): A comprehensive review of current evidence**
+*Duarte PM, Adesola RO, Priyadarsini S, Singh R, Shaheen MNF, Ogundijo OA, Gulumbe BH, Lounis M, Samir M, Govindan K, et al.*
+The Microbe, 4: 100141, 2024
+
+
+---
+
+## 2023
+
+**Distribution and Functional Analyses of Mutations in Spike Protein and Phylogenic Diversity of SARS-CoV-2 Variants in India (2021)**
+*Gopalan V, Chandran A, Arumugam K, Sundaram M, Velladurai S, Govindan K, Azhagesan N, Jeyavel P, Dhandapani P, Sivasubramanian S, et al.*
+Journal of Global Infectious Diseases, 15(2): 43–51, 2023
+
+
+---
+
+## 2022
+
+**Serum levels of matrix metalloproteinases as prognostic markers for severe dengue with plasma leakage**
+*Sivasubramanian S, Mohandas S, Gopalan V, Govindan K, Varadarajan P, Kaveri K, Ramkumar KM*
+Experimental and Molecular Pathology, 128: 104821, 2022
+
+
+---
+
+**The utility of inflammatory and endothelial factors in the prognosis of severe dengue**
+*Sivasubramanian S, Mohandas S, Gopalan V, Raj VV, Govindan K, Varadarajan P, Kaveri K, Ramkumar KM*
+Immunobiology, 227(6): 152289, 2022
+
+
+---
+
+**Epitope identification and designing a potent multi-epitope vaccine construct against SARS-CoV-2 including emerging variants**
+*Srinivasan S, Selvaraj GF, Gopalan V, Padmanabhan P, Ramesh K, Govindan K, Chandran A, Dhandapani P, Krishnasamy K, Kitambi SS*
+Journal of Global Infectious Diseases, 14(1): 24–30, 2022
+
+
+---
+
+## 2021
+
+**Phylodynamic pattern of genetic clusters and impact of spike glycoprotein mutations of SARS-CoV-2 isolates from India**
+*Sivasubramanian S, Gopalan V, Ramesh K, Padmanabhan P, Mone K, Govindan K, Velladurai S, Dhandapani P, Krishnasamy K, Kitambi SS*
+Journal of Global Infectious Diseases, 13(4): 164–171, 2021
+
+---
+
+## Protocols.io
+
+**qPCR based multipathogen detection for SARS-CoV-2, CrAssphage and Hepatitis E virus from wastewater samples**
+*Abraham D, Benny B, Kumar N, Govindan K, Mohan VR*

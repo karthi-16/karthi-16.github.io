@@ -1,0 +1,41 @@
+---
+title: "Awards"
+page-layout: full
+page-tools: false
+repo-actions: []
+format:
+  html:
+    css: styles.css
+---
+
+:::{.awards-page}
+
+:::{.awards-list}
+
+:::{.award-card}
+:::{.award-title}
+Bursary Awardee
+:::
+:::{.award-org}
+Wellcome Connecting Science — Understanding Life: Using Large-Scale Biodiversity Reference Genomes
+:::
+:::{.award-year}
+2025
+:::
+:::
+
+:::{.award-card}
+:::{.award-title}
+Bursary Awardee
+:::
+:::{.award-org}
+Oxford Nanopore Technologies
+:::
+:::{.award-year}
+2025
+:::
+:::
+
+:::
+
+:::
