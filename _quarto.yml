@@ -18,8 +18,6 @@ website:
         href: posters.qmd
       - text: "Awards"
         href: awards.qmd
-      - text: CV
-        href: cv.pdf
     right:
       - icon: github
         href: https://github.com/karthi-16
@@ -35,6 +33,6 @@ format:
     toc: false
     page-layout: article
     grid: 
-      body-width: 1600px
+      body-width: 1200px
 toc: false
 number-sections: false
