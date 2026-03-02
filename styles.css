@@ -423,3 +423,24 @@ body {
     max-width: 100% !important;
   }
 }
+
+@media (max-width: 768px) {
+  .quarto-about-trestles .about-contents .about-links {
+    justify-content: center !important;
+    flex-wrap: wrap !important;
+  }
+
+  #quarto-content {
+    margin-left: 0 !important;
+    padding-left: 8px !important;
+    overflow: hidden !important;
+  }
+
+  .about-contents p,
+  .about-contents h1,
+  .about-contents h2 {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    width: 100% !important;
+  }
+}
