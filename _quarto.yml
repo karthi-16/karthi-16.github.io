@@ -36,7 +36,7 @@ format:
     toc: false
     page-layout: article
     grid: 
-      body-width: 1250px
+      body-width: 1500px
 toc: false
 number-sections: false
 
