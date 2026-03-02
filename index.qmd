@@ -3,7 +3,7 @@ title: "Karthikeyan Govindan"
 about:
   template: trestles
   image: profile.jpg
-  image-width: 320px
+  image-width: 150px
   image-shape: round
   links:
     - icon: github
