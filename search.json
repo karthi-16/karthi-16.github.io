@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Karthikeyan Govindan",
+    "section": "Bio",
+    "text": "Bio\nI am a bioinformatician at the Wellcome Trust Research Laboratory, CMC, Vellore. My research focuses on two primary areas: Gut Microbiome and Genomic surveillance of pathogens in wastewater, with the broader goal of understanding microbial communities in both clinical and environmental contexts.\nI specialise in building custom bioinformatic pipelines and workflows tailored to specific research questions. My analytical work includes the analysis of whole-genome sequencing, shotgun metagenomic, and amplicon sequencing data, including read preprocessing, assembly, taxonomic and functional profiling, comparative analysis, and interpretation of microbial community structure and dynamics across bacterial and viral systems, enabling end-to-end processing of sequencing outputs from raw reads to biological interpretation. I am proficient in Bash and R, and have a strong interest in reproducible research — developing interactive dashboards and automated reports using R Markdown, Quarto, and GitHub to communicate findings clearly and efficiently.\nIn addition to bioinformatic analysis, I have hands-on experience in genome sequencing using both Illumina (MiSeq) and Oxford Nanopore Technologies (MinION) platforms, supporting the generation of high-quality sequencing data for downstream analysis."
+  },
+  {
+    "objectID": "index.html#research-specialization",
+    "href": "index.html#research-specialization",
+    "title": "Karthikeyan Govindan",
+    "section": "Research Specialization",
+    "text": "Research Specialization\n\n\n\nGut Microbiome & Host-Microbe Interactions\n\n\n\nWastewater-Based Pathogen Surveillance\n\n\n\nBioinformatics\n\n\n\nPathogen Sequencing\n\n\n\nFunctional Genomics"
+  },
+  {
+    "objectID": "index.html#research-interest",
+    "href": "index.html#research-interest",
+    "title": "Karthikeyan Govindan",
+    "section": "Research Interest",
+    "text": "Research Interest\nMicrobial community modelling and simulation\nMicrobial ecology, functional dynamics, and climate change"
+  }
+]
