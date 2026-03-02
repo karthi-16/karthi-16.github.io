@@ -25,6 +25,9 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     theme: cosmo
     code-tools: false
     edit-link: false
@@ -36,3 +39,4 @@ format:
       body-width: 1200px
 toc: false
 number-sections: false
+
