@@ -399,16 +399,26 @@ body {
 }
 
 /* Target front page only */
-@media (max-width: 576px) {
-  #quarto-content,
-  .quarto-container,
-  #title-block-header,
-  .page-columns {
-    padding-left: 12px !important;
-    padding-right: 12px !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+/* Fix trestles template on mobile */
+@media (max-width: 768px) {
+  .quarto-about-trestles {
+    flex-direction: column !important;
+    padding: 0 12px !important;
+  }
+
+  .quarto-about-trestles .about-entity {
     width: 100% !important;
-    max-width: 100% !important;
+    padding-right: 0 !important;
+    text-align: center !important;
+  }
+
+  .quarto-about-trestles .about-contents {
+    width: 100% !important;
+    padding-left: 0 !important;
+  }
+
+  .quarto-about-trestles img {
+    width: 180px !important;
+    height: 180px !important;
   }
 }
