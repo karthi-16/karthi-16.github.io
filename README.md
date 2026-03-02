@@ -1,4 +1,4 @@
-# Personal Academic Website — Quarto + GitHub Pages
+# Personal Website — Quarto + GitHub Pages
 
 ## Files included
 ```
