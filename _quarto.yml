@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: .   # GitHub Pages serves from /docs
+  output-dir: docs   # GitHub Pages serves from /docs
 
 website:
   title: ""
@@ -18,9 +18,11 @@ website:
         href: posters.qmd
       - text: "Awards"
         href: awards.qmd
+      - text: CV
+        href: cv.pdf
     right:
       - icon: github
-        href: https://github.com/yourusername
+        href: https://github.com/karthi-16
         aria-label: GitHub
 
 format:
