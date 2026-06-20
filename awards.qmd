@@ -14,7 +14,7 @@ format:
 
 :::{.award-card}
 :::{.award-title}
-Bursary Awardee
+Bursary Award
 :::
 :::{.award-org}
 Wellcome Connecting Science — Understanding Life: Using Large-Scale Biodiversity Reference Genomes
@@ -26,7 +26,7 @@ Wellcome Connecting Science — Understanding Life: Using Large-Scale Biodiversi
 
 :::{.award-card}
 :::{.award-title}
-Bursary Awardee
+Bursary Award
 :::
 :::{.award-org}
 Oxford Nanopore Technologies
